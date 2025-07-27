@@ -10,12 +10,12 @@
 
 ![Jumlah Penglihat](https://komarev.com/ghpvc/?username=D3terjenn&label=Profile%20views&color=0e75b6&style=flat)
 
-![Email](https://img.shields.io/badge/Gmail-contactgemahost%40gmail.com-0e75b6?logo=gmail&logoColor=white&style=flat)
+![Email](https://img.shields.io/badge/Gmail-d3terjenn%40gmail.com-0e75b6?logo=gmail&logoColor=white&style=flat)
 
-- 📝Saya bekerja sebagai CEO di [Gema Host](https://discord.gemahost.my.id/)
+- 📝Saya bekerja sebagai CEO di [Orbyte](https://orbyte.my.id/)
 - 📡Saya masih mempelajari **Node JS**, **Java Script**, **HTML/CSS**, **PHP**, **MySQL**, **MongoDB**, **MariaDB**
 - 💬 Jangan tanya ke saya, saya juga tidak tahu
-- 🎮 Semua projek saya tersedia disini dan diwebsite https://dezandwipratama.my.id/
+- 🎮 Semua projek saya tersedia disini dan diwebsite https://d3terjenn.my.id/
 
 ## Tools and use
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
