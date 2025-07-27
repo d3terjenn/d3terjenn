@@ -1,4 +1,4 @@
-![Alt Text](https://i.imgur.com/VHp4G3w.png)
+![Alt Text](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <h1>Hi, Selamat datang di profile github saya!</h1>
